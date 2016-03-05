@@ -1,80 +1,80 @@
-region, bordering_region, border_type
-Alaska, Kamchatka, Water
-Northwest Territory, Alaska, Land
-Northwest Territory, Greenland, Water
-Northwest Territory, Alberta, Land
-Northwest Territory, Ontario, Land
-Alberta, Alaska, Land
-Alberta, Ontario, Land
-Alberta, Western United States, Land
-Ontario, Eastern Canada, Land
-Ontario, Western United States, Land
-Ontario, Eastern United States, Land
-Ontario, Greenland, Water
-Eastern Canada, Eastern United States, Land
-Eastern Canada, Greenland, Water
-Western United States, Eastern United States, Land
-Western United States, Central America, Land
-Central America, Venezuela, Land
-Venezuela, Brazil, Land
-Venezuela, Peru, Land
-Peru, Brazil, Land
-Peru, Argentina, Land
-Brazil, Argentina, Land
-Brazil, North Africa, Land
-Greenand, Iceland, Water
-Iceland, Great Britain, Water
-Iceland, Scandinavia, Water
-Great Britain, Scandinavia, Water
-Great Britain, Western Europe, Water
-Great Britain, Northern Europe, Water
-Scandinavia, Northern Europe, Water
-Scandinavia, Russia, Land
-Northern Europe, Western Europe, Land
-Northern Europe, Southern Europe, Land
-Northern Europe, Russia, Land
-Southern Europe, Russia, Land
-Southern Europe, Middle East, Land
-Southern Europe,Egypt, Water
-Western Europe,Southern Europe, Land
-Western Europe,North Africa, Land
-North Africa, Egypt, Land
-North Africa, Central Africa, Land
-North Africa, East Africa, Land
-East Africa, Egypt, Land
-East Africa, Central Africa, Land
-East Africa, Middle East, Water
-East Africa, Madagascar, Water
-East Africa, South Africa, Land
-Egypt, Middle East, Land
-South Africa, Madagascar, Water
-Middle East, India, Land
-Middle East, Afghanistan, Land
-Middle East, Russia, Land
-Afghanistan, India, Land
-Afghanistan, Ural, Land
-Afghanistan, China, Land
-Afghanistan, Russia, Land
-Ural, Siberia, Land
-Ural, China, Land
-Ural, Russia, Land
-Siberia, China, Land
-Siberia, Mongolia, Land
-Siberia, Irkutsk, Land
-Siberia, Yakutsk, Land
-Yakutsk, Irkutsk, Land
-Yakutsk, Kamchatka, Land
-Irkutsk, Mongolia, Land
-Irkutsk, Kamchatka, Land
-Japan, Kamchatka, Water
-Japan, Mongolia, Water
-Mongolia, Kamchatka, Land
-Mongolia, China, Land
-China, India, Land
-China, Southeast Asia, Land
-India, Southeast Asia, Land
-Indonesia, Southeast Asia, Water
-Indonesia, New Guinea, Water
-Indonesia, Western Australia, Water
-Eastern Australia, Western Australia, Land
-Eastern Australia, New Guinea, Water
+region,bordering_region,border_type
+Alaska,Kamchatka,Water
+Northwest Territory,Alaska,Land
+Northwest Territory,Greenland,Water
+Northwest Territory,Alberta,Land
+Northwest Territory,Ontario,Land
+Alberta,Alaska,Land
+Alberta,Ontario,Land
+Alberta,Western United States,Land
+Ontario,Eastern Canada,Land
+Ontario,Western United States,Land
+Ontario,Eastern United States,Land
+Ontario,Greenland,Water
+Eastern Canada,Eastern United States,Land
+Eastern Canada,Greenland,Water
+Western United States,Eastern United States,Land
+Western United States,Central America,Land
+Central America,Venezuela,Land
+Venezuela,Brazil,Land
+Venezuela,Peru,Land
+Peru,Brazil,Land
+Peru,Argentina,Land
+Brazil,Argentina,Land
+Brazil,North Africa,Land
+Greenand,Iceland,Water
+Iceland,Great Britain,Water
+Iceland,Scandinavia,Water
+Great Britain,Scandinavia,Water
+Great Britain,Western Europe,Water
+Great Britain,Northern Europe,Water
+Scandinavia,Northern Europe,Water
+Scandinavia,Russia,Land
+Northern Europe,Western Europe,Land
+Northern Europe,Southern Europe,Land
+Northern Europe,Russia,Land
+Southern Europe,Russia,Land
+Southern Europe,Middle East,Land
+Southern Europe,Egypt,Water
+Western Europe,Southern Europe,Land
+Western Europe,North Africa,Land
+North Africa,Egypt,Land
+North Africa,Central Africa,Land
+North Africa,East Africa,Land
+East Africa,Egypt,Land
+East Africa,Central Africa,Land
+East Africa,Middle East,Water
+East Africa,Madagascar,Water
+East Africa,South Africa,Land
+Egypt,Middle East,Land
+South Africa,Madagascar,Water
+Middle East,India,Land
+Middle East,Afghanistan,Land
+Middle East,Russia,Land
+Afghanistan,India,Land
+Afghanistan,Ural,Land
+Afghanistan,China,Land
+Afghanistan,Russia,Land
+Ural,Siberia,Land
+Ural,China,Land
+Ural,Russia,Land
+Siberia,China,Land
+Siberia,Mongolia,Land
+Siberia,Irkutsk,Land
+Siberia,Yakutsk,Land
+Yakutsk,Irkutsk,Land
+Yakutsk,Kamchatka,Land
+Irkutsk,Mongolia,Land
+Irkutsk,Kamchatka,Land
+Japan,Kamchatka,Water
+Japan,Mongolia,Water
+Mongolia,Kamchatka,Land
+Mongolia,China,Land
+China,India,Land
+China,Southeast Asia,Land
+India,Southeast Asia,Land
+Indonesia,Southeast Asia,Water
+Indonesia,New Guinea,Water
+Indonesia,Western Australia,Water
+Eastern Australia,Western Australia,Land
+Eastern Australia,New Guinea,Water
